@@ -335,16 +335,15 @@ FEATURES
 
 .book__price {
     font-size: 18px;
-    font-weight: normal;
-
+    font-weight: bold;
     padding: 5px 0;
 }
 
 .book__price--normal {
     text-decoration: line-through;
-    padding-right: 6px;
+    padding-right: 15px;
     color: rgb(82, 96, 109);
-    font-weight: bold;
+    font-weight: lighter;
 }
 
 .no-cursor {
